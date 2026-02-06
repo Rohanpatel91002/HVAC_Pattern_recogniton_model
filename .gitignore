@@ -1,0 +1,9 @@
+.env
+model.tar.gz
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+output.txt
+deploy.py
+test_endpoint.py
+test_data.csv
